@@ -78,12 +78,12 @@
 		
 	</repositories>
 	<distributionManagement>
-    <repository>
-			 <id>internal.repo</id>
-			 <name>Internal repo</name>
-			 <url>C:\Users\prakashkm</url> 
-       </repository>
-  </distributionManagement>
+	    <repository>
+				 <id>internal.repo</id>
+				 <name>Internal repo</name>
+				 <url>https://prakashkm.jfrog.io/artifactory/github-jfrog-libs-snapshot-local/</url> 
+	       </repository>
+  	</distributionManagement>
 
 	<pluginRepositories>
 		<pluginRepository>
