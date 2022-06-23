@@ -79,7 +79,6 @@
 			 <id>internal.repo</id>
 			 <name>Internal repo</name>
 			 <url>C:\Users\prakashkm\Documents</url>
-			 <status>deployed</status>
        </repository>
 	</repositories>
 
