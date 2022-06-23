@@ -81,7 +81,7 @@
     <repository>
 			 <id>internal.repo</id>
 			 <name>Internal repo</name>
-			 <url>C:\Users\prakashkm\Documents</url> 
+			 <url>C:\Users\prakashkm</url> 
        </repository>
   </distributionManagement>
 
