@@ -75,6 +75,12 @@
 			<url>https://repository.mulesoft.org/releases/</url>
 			<layout>default</layout>
 		</repository>
+		<repository>
+			 <id>internal.repo</id>
+			 <name>Internal repo</name>
+			 <url>C:\Users\prakashkm\Documents</url>
+			 <status>deployed</status>
+       </repository>
 	</repositories>
 
 	<pluginRepositories>
